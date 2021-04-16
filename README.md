@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @antoniocigna
+- 👋 Hi, I’m Antonio Cigna 
+-   I live in Italy.   
   once I worked on computer mainly  on mainframes for more than 3 decades. 
     I'm retired since a long time. 
     Now and then I do some coding for my pleasure.     
